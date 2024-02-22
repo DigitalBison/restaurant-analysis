@@ -1,0 +1,725 @@
+Date,Max Profit Item,Profit of MPI,Sales of MPI,Max Cost Item,Sales of MCI
+01-01-2017,vegetarian spicy miso,266.0,38,truffle butter ramen,252.0
+01-02-2017,soft-shell miso crab ramen,28.0,4,soft-shell miso crab ramen,28.0
+01-03-2017,burnt garlic tonkotsu ramen,272.0,34,burnt garlic tonkotsu ramen,204.0
+01-04-2017,spicy miso ramen,224.0,32,spicy miso ramen,160.0
+01-05-2017,soft-shell miso crab ramen,252.0,36,soft-shell miso crab ramen,252.0
+01-06-2017,spicy miso ramen,280.0,40,shio ramen,200.0
+01-07-2017,nagomi shoyu,36.0,6,nagomi shoyu,30.0
+01-08-2017,vegetarian spicy miso,168.0,24,vegetarian spicy miso,120.0
+01-09-2017,miso crab ramen,120.0,20,miso crab ramen,120.0
+01-10-2017,vegetarian spicy miso,98.0,14,miso crab ramen,84.0
+01-11-2017,vegetarian spicy miso,210.0,30,miso crab ramen,168.0
+01-12-2017,soft-shell miso crab ramen,252.0,36,soft-shell miso crab ramen,252.0
+01-13-2017,vegetarian spicy miso,98.0,14,burnt garlic tonkotsu ramen,72.0
+01-14-2017,vegetarian spicy miso,266.0,38,vegetarian spicy miso,190.0
+01-15-2017,tonkotsu ramen,168.0,24,tonkotsu ramen,144.0
+01-16-2017,spicy miso ramen,168.0,24,vegetarian curry + king trumpet mushroom ramen,182.0
+01-17-2017,vegetarian spicy miso,322.0,46,vegetarian spicy miso,230.0
+01-18-2017,truffle butter ramen,56.0,8,truffle butter ramen,56.0
+01-19-2017,tonkotsu ramen,56.0,8,tonkotsu ramen,48.0
+01-20-2017,tonkotsu ramen,154.0,22,tonkotsu ramen,132.0
+01-21-2017,shio ramen,96.0,16,shio ramen,80.0
+01-22-2017,spicy miso ramen,154.0,22,spicy miso ramen,110.0
+01-23-2017,nagomi shoyu,168.0,28,nagomi shoyu,140.0
+01-24-2017,vegetarian curry + king trumpet mushroom ramen,192.0,32,vegetarian curry + king trumpet mushroom ramen,224.0
+01-25-2017,truffle butter ramen,308.0,44,truffle butter ramen,308.0
+01-26-2017,burnt garlic tonkotsu ramen,96.0,12,burnt garlic tonkotsu ramen,72.0
+01-27-2017,nagomi shoyu,96.0,16,nagomi shoyu,80.0
+01-28-2017,soft-shell miso crab ramen,238.0,34,soft-shell miso crab ramen,238.0
+01-29-2017,truffle butter ramen,238.0,34,truffle butter ramen,238.0
+01-30-2017,vegetarian spicy miso,42.0,6,tori paitan ramen,36.0
+01-31-2017,vegetarian spicy miso,70.0,10,vegetarian spicy miso,50.0
+02-01-2017,vegetarian spicy miso,182.0,26,soft-shell miso crab ramen,168.0
+02-02-2017,burnt garlic tonkotsu ramen,80.0,10,burnt garlic tonkotsu ramen,60.0
+02-03-2017,tori paitan ramen,252.0,36,vegetarian curry + king trumpet mushroom ramen,238.0
+02-04-2017,truffle butter ramen,168.0,24,truffle butter ramen,168.0
+02-05-2017,tori paitan ramen,168.0,24,miso crab ramen,156.0
+02-06-2017,spicy miso ramen,84.0,12,burnt garlic tonkotsu ramen,60.0
+02-07-2017,shio ramen,312.0,52,shio ramen,260.0
+02-08-2017,burnt garlic tonkotsu ramen,112.0,14,burnt garlic tonkotsu ramen,84.0
+02-09-2017,spicy miso ramen,154.0,22,truffle butter ramen,140.0
+02-10-2017,vegetarian spicy miso,140.0,20,soft-shell miso crab ramen,140.0
+02-11-2017,soft-shell miso crab ramen,14.0,2,soft-shell miso crab ramen,14.0
+02-13-2017,burnt garlic tonkotsu ramen,256.0,32,burnt garlic tonkotsu ramen,192.0
+02-14-2017,burnt garlic tonkotsu ramen,128.0,16,burnt garlic tonkotsu ramen,96.0
+02-15-2017,spicy miso ramen,210.0,30,spicy miso ramen,150.0
+02-16-2017,spicy miso ramen,126.0,18,spicy miso ramen,90.0
+02-17-2017,burnt garlic tonkotsu ramen,208.0,26,burnt garlic tonkotsu ramen,156.0
+02-18-2017,vegetarian spicy miso,140.0,20,soft-shell miso crab ramen,126.0
+02-19-2017,miso crab ramen,264.0,44,miso crab ramen,264.0
+02-20-2017,truffle butter ramen,28.0,4,truffle butter ramen,28.0
+02-21-2017,miso crab ramen,24.0,4,miso crab ramen,24.0
+02-22-2017,vegetarian spicy miso,252.0,36,vegetarian spicy miso,180.0
+02-23-2017,nagomi shoyu,132.0,22,vegetarian curry + king trumpet mushroom ramen,140.0
+02-24-2017,soft-shell miso crab ramen,140.0,20,soft-shell miso crab ramen,140.0
+02-25-2017,shio ramen,84.0,14,shio ramen,70.0
+02-26-2017,tori paitan ramen,140.0,20,tori paitan ramen,120.0
+02-27-2017,burnt garlic tonkotsu ramen,32.0,4,burnt garlic tonkotsu ramen,24.0
+02-28-2017,tonkotsu ramen,140.0,20,tonkotsu ramen,120.0
+03-01-2017,soft-shell miso crab ramen,308.0,44,soft-shell miso crab ramen,308.0
+03-02-2017,truffle butter ramen,14.0,2,truffle butter ramen,14.0
+03-03-2017,miso crab ramen,216.0,36,miso crab ramen,216.0
+03-04-2017,soft-shell miso crab ramen,42.0,6,soft-shell miso crab ramen,42.0
+03-05-2017,vegetarian spicy miso,168.0,24,vegetarian spicy miso,120.0
+03-06-2017,soft-shell miso crab ramen,98.0,14,soft-shell miso crab ramen,98.0
+03-07-2017,nagomi shoyu,144.0,24,truffle butter ramen,140.0
+03-08-2017,soft-shell miso crab ramen,196.0,28,soft-shell miso crab ramen,196.0
+03-09-2017,truffle butter ramen,14.0,2,truffle butter ramen,14.0
+03-10-2017,vegetarian curry + king trumpet mushroom ramen,132.0,22,vegetarian curry + king trumpet mushroom ramen,154.0
+03-11-2017,soft-shell miso crab ramen,112.0,16,soft-shell miso crab ramen,112.0
+03-12-2017,burnt garlic tonkotsu ramen,192.0,24,truffle butter ramen,154.0
+03-13-2017,spicy miso ramen,126.0,18,truffle butter ramen,126.0
+03-14-2017,burnt garlic tonkotsu ramen,224.0,28,soft-shell miso crab ramen,196.0
+03-15-2017,soft-shell miso crab ramen,84.0,12,soft-shell miso crab ramen,84.0
+03-16-2017,vegetarian spicy miso,98.0,14,vegetarian spicy miso,70.0
+03-17-2017,tonkotsu ramen,84.0,12,soft-shell miso crab ramen,84.0
+03-18-2017,burnt garlic tonkotsu ramen,96.0,12,burnt garlic tonkotsu ramen,72.0
+03-19-2017,burnt garlic tonkotsu ramen,128.0,16,burnt garlic tonkotsu ramen,96.0
+03-20-2017,spicy miso ramen,238.0,34,tonkotsu ramen,192.0
+03-21-2017,burnt garlic tonkotsu ramen,240.0,30,burnt garlic tonkotsu ramen,180.0
+03-22-2017,vegetarian spicy miso,252.0,36,vegetarian curry + king trumpet mushroom ramen,210.0
+03-23-2017,soft-shell miso crab ramen,210.0,30,soft-shell miso crab ramen,210.0
+03-24-2017,burnt garlic tonkotsu ramen,176.0,22,burnt garlic tonkotsu ramen,132.0
+03-25-2017,burnt garlic tonkotsu ramen,64.0,8,tori paitan ramen,48.0
+03-26-2017,tonkotsu ramen,182.0,26,tonkotsu ramen,156.0
+03-27-2017,burnt garlic tonkotsu ramen,176.0,22,burnt garlic tonkotsu ramen,132.0
+03-28-2017,truffle butter ramen,168.0,24,truffle butter ramen,168.0
+03-29-2017,burnt garlic tonkotsu ramen,176.0,22,truffle butter ramen,140.0
+03-30-2017,vegetarian spicy miso,182.0,26,vegetarian spicy miso,130.0
+03-31-2017,truffle butter ramen,56.0,8,truffle butter ramen,56.0
+04-01-2017,burnt garlic tonkotsu ramen,176.0,22,burnt garlic tonkotsu ramen,132.0
+04-02-2017,vegetarian curry + king trumpet mushroom ramen,36.0,6,vegetarian curry + king trumpet mushroom ramen,42.0
+04-03-2017,vegetarian spicy miso,280.0,40,miso crab ramen,204.0
+04-04-2017,soft-shell miso crab ramen,224.0,32,soft-shell miso crab ramen,224.0
+04-05-2017,tonkotsu ramen,84.0,12,miso crab ramen,84.0
+04-06-2017,truffle butter ramen,224.0,32,vegetarian curry + king trumpet mushroom ramen,238.0
+04-07-2017,burnt garlic tonkotsu ramen,96.0,12,burnt garlic tonkotsu ramen,72.0
+04-08-2017,shio ramen,168.0,28,shio ramen,140.0
+04-09-2017,spicy miso ramen,224.0,32,spicy miso ramen,160.0
+04-10-2017,spicy miso ramen,154.0,22,miso crab ramen,132.0
+04-11-2017,miso crab ramen,216.0,36,miso crab ramen,216.0
+04-12-2017,burnt garlic tonkotsu ramen,64.0,8,truffle butter ramen,56.0
+04-13-2017,spicy miso ramen,112.0,16,nagomi shoyu,90.0
+04-14-2017,spicy miso ramen,266.0,38,vegetarian curry + king trumpet mushroom ramen,238.0
+04-15-2017,soft-shell miso crab ramen,154.0,22,soft-shell miso crab ramen,154.0
+04-16-2017,shio ramen,24.0,4,shio ramen,20.0
+04-17-2017,spicy miso ramen,224.0,32,soft-shell miso crab ramen,210.0
+04-18-2017,truffle butter ramen,154.0,22,truffle butter ramen,154.0
+04-19-2017,shio ramen,24.0,4,shio ramen,20.0
+04-20-2017,vegetarian spicy miso,112.0,16,soft-shell miso crab ramen,112.0
+04-21-2017,tonkotsu ramen,210.0,30,vegetarian curry + king trumpet mushroom ramen,196.0
+04-22-2017,soft-shell miso crab ramen,196.0,28,soft-shell miso crab ramen,196.0
+04-23-2017,tori paitan ramen,182.0,26,tori paitan ramen,156.0
+04-24-2017,tonkotsu ramen,210.0,30,tonkotsu ramen,180.0
+04-25-2017,vegetarian spicy miso,224.0,32,vegetarian spicy miso,160.0
+04-26-2017,truffle butter ramen,56.0,8,truffle butter ramen,56.0
+04-27-2017,burnt garlic tonkotsu ramen,208.0,26,truffle butter ramen,168.0
+04-28-2017,spicy miso ramen,238.0,34,spicy miso ramen,170.0
+04-29-2017,soft-shell miso crab ramen,98.0,14,soft-shell miso crab ramen,98.0
+04-30-2017,truffle butter ramen,112.0,16,truffle butter ramen,112.0
+05-01-2017,tonkotsu ramen,210.0,30,tonkotsu ramen,180.0
+05-02-2017,miso crab ramen,84.0,14,miso crab ramen,84.0
+05-03-2017,soft-shell miso crab ramen,210.0,30,soft-shell miso crab ramen,210.0
+05-04-2017,vegetarian spicy miso,126.0,18,soft-shell miso crab ramen,112.0
+05-05-2017,vegetarian spicy miso,196.0,28,vegetarian spicy miso,140.0
+05-06-2017,truffle butter ramen,252.0,36,truffle butter ramen,252.0
+05-07-2017,truffle butter ramen,196.0,28,truffle butter ramen,196.0
+05-08-2017,tori paitan ramen,182.0,26,tori paitan ramen,156.0
+05-09-2017,truffle butter ramen,210.0,30,truffle butter ramen,210.0
+05-10-2017,spicy miso ramen,14.0,2,soft-shell miso crab ramen,14.0
+05-11-2017,truffle butter ramen,182.0,26,truffle butter ramen,182.0
+05-12-2017,tori paitan ramen,56.0,8,tori paitan ramen,48.0
+05-13-2017,nagomi shoyu,48.0,8,vegetarian curry + king trumpet mushroom ramen,42.0
+05-14-2017,burnt garlic tonkotsu ramen,240.0,30,miso crab ramen,192.0
+05-15-2017,tori paitan ramen,252.0,36,tori paitan ramen,216.0
+05-16-2017,nagomi shoyu,72.0,12,truffle butter ramen,70.0
+05-17-2017,miso crab ramen,120.0,20,miso crab ramen,120.0
+05-18-2017,shio ramen,60.0,10,shio ramen,50.0
+05-19-2017,truffle butter ramen,42.0,6,truffle butter ramen,42.0
+05-20-2017,vegetarian curry + king trumpet mushroom ramen,156.0,26,vegetarian curry + king trumpet mushroom ramen,182.0
+05-21-2017,soft-shell miso crab ramen,224.0,32,soft-shell miso crab ramen,224.0
+05-22-2017,vegetarian spicy miso,322.0,46,vegetarian spicy miso,230.0
+05-23-2017,miso crab ramen,36.0,6,miso crab ramen,36.0
+05-24-2017,truffle butter ramen,224.0,32,truffle butter ramen,224.0
+05-25-2017,burnt garlic tonkotsu ramen,128.0,16,soft-shell miso crab ramen,112.0
+05-26-2017,tonkotsu ramen,280.0,40,tonkotsu ramen,240.0
+05-27-2017,soft-shell miso crab ramen,84.0,12,soft-shell miso crab ramen,84.0
+05-28-2017,vegetarian spicy miso,42.0,6,vegetarian spicy miso,30.0
+05-30-2017,truffle butter ramen,140.0,20,truffle butter ramen,140.0
+05-31-2017,tori paitan ramen,224.0,32,tori paitan ramen,192.0
+06-02-2017,soft-shell miso crab ramen,98.0,14,soft-shell miso crab ramen,98.0
+06-03-2017,soft-shell miso crab ramen,56.0,8,soft-shell miso crab ramen,56.0
+06-04-2017,tonkotsu ramen,224.0,32,tonkotsu ramen,192.0
+06-05-2017,truffle butter ramen,196.0,28,truffle butter ramen,196.0
+06-06-2017,vegetarian spicy miso,168.0,24,vegetarian spicy miso,120.0
+06-07-2017,tonkotsu ramen,322.0,46,tonkotsu ramen,276.0
+06-08-2017,vegetarian curry + king trumpet mushroom ramen,120.0,20,vegetarian curry + king trumpet mushroom ramen,140.0
+06-09-2017,nagomi shoyu,240.0,40,nagomi shoyu,200.0
+06-10-2017,truffle butter ramen,252.0,36,truffle butter ramen,252.0
+06-11-2017,miso crab ramen,240.0,40,miso crab ramen,240.0
+06-12-2017,vegetarian spicy miso,196.0,28,vegetarian spicy miso,140.0
+06-13-2017,shio ramen,108.0,18,shio ramen,90.0
+06-14-2017,soft-shell miso crab ramen,252.0,36,soft-shell miso crab ramen,252.0
+06-15-2017,tonkotsu ramen,56.0,8,tonkotsu ramen,48.0
+06-16-2017,spicy miso ramen,140.0,20,vegetarian curry + king trumpet mushroom ramen,140.0
+06-17-2017,burnt garlic tonkotsu ramen,160.0,20,burnt garlic tonkotsu ramen,120.0
+06-18-2017,vegetarian curry + king trumpet mushroom ramen,240.0,40,vegetarian curry + king trumpet mushroom ramen,280.0
+06-19-2017,tonkotsu ramen,238.0,34,tonkotsu ramen,204.0
+06-20-2017,vegetarian spicy miso,154.0,22,vegetarian curry + king trumpet mushroom ramen,126.0
+06-21-2017,spicy miso ramen,182.0,26,spicy miso ramen,130.0
+06-22-2017,vegetarian curry + king trumpet mushroom ramen,156.0,26,vegetarian curry + king trumpet mushroom ramen,182.0
+06-23-2017,truffle butter ramen,196.0,28,truffle butter ramen,196.0
+06-24-2017,miso crab ramen,156.0,26,miso crab ramen,156.0
+06-25-2017,tonkotsu ramen,84.0,12,tonkotsu ramen,72.0
+06-26-2017,vegetarian curry + king trumpet mushroom ramen,84.0,14,vegetarian curry + king trumpet mushroom ramen,98.0
+06-27-2017,vegetarian curry + king trumpet mushroom ramen,144.0,24,vegetarian curry + king trumpet mushroom ramen,168.0
+06-28-2017,vegetarian curry + king trumpet mushroom ramen,240.0,40,vegetarian curry + king trumpet mushroom ramen,280.0
+06-29-2017,vegetarian curry + king trumpet mushroom ramen,252.0,42,vegetarian curry + king trumpet mushroom ramen,294.0
+06-30-2017,burnt garlic tonkotsu ramen,64.0,8,burnt garlic tonkotsu ramen,48.0
+07-01-2017,vegetarian spicy miso,196.0,28,vegetarian curry + king trumpet mushroom ramen,154.0
+07-02-2017,tori paitan ramen,196.0,28,tori paitan ramen,168.0
+07-03-2017,soft-shell miso crab ramen,224.0,32,soft-shell miso crab ramen,224.0
+07-04-2017,nagomi shoyu,180.0,30,nagomi shoyu,150.0
+07-05-2017,tonkotsu ramen,168.0,24,tonkotsu ramen,144.0
+07-06-2017,tori paitan ramen,56.0,8,vegetarian curry + king trumpet mushroom ramen,56.0
+07-07-2017,truffle butter ramen,224.0,32,truffle butter ramen,224.0
+07-08-2017,burnt garlic tonkotsu ramen,256.0,32,burnt garlic tonkotsu ramen,192.0
+07-09-2017,miso crab ramen,24.0,4,miso crab ramen,24.0
+07-10-2017,tori paitan ramen,98.0,14,tori paitan ramen,84.0
+07-11-2017,truffle butter ramen,168.0,24,truffle butter ramen,168.0
+07-12-2017,spicy miso ramen,14.0,2,soft-shell miso crab ramen,14.0
+07-13-2017,spicy miso ramen,308.0,44,spicy miso ramen,220.0
+07-14-2017,spicy miso ramen,224.0,32,miso crab ramen,180.0
+07-15-2017,burnt garlic tonkotsu ramen,176.0,22,burnt garlic tonkotsu ramen,132.0
+07-16-2017,vegetarian curry + king trumpet mushroom ramen,108.0,18,vegetarian curry + king trumpet mushroom ramen,126.0
+07-17-2017,truffle butter ramen,336.0,48,truffle butter ramen,336.0
+07-18-2017,tori paitan ramen,196.0,28,soft-shell miso crab ramen,182.0
+07-19-2017,spicy miso ramen,98.0,14,spicy miso ramen,70.0
+07-20-2017,burnt garlic tonkotsu ramen,288.0,36,burnt garlic tonkotsu ramen,216.0
+07-21-2017,burnt garlic tonkotsu ramen,288.0,36,burnt garlic tonkotsu ramen,216.0
+07-22-2017,burnt garlic tonkotsu ramen,208.0,26,soft-shell miso crab ramen,168.0
+07-23-2017,burnt garlic tonkotsu ramen,224.0,28,vegetarian curry + king trumpet mushroom ramen,238.0
+07-24-2017,tonkotsu ramen,182.0,26,tonkotsu ramen,156.0
+07-25-2017,burnt garlic tonkotsu ramen,240.0,30,burnt garlic tonkotsu ramen,180.0
+07-26-2017,spicy miso ramen,126.0,18,soft-shell miso crab ramen,98.0
+07-27-2017,burnt garlic tonkotsu ramen,256.0,32,burnt garlic tonkotsu ramen,192.0
+07-28-2017,spicy miso ramen,140.0,20,soft-shell miso crab ramen,126.0
+07-29-2017,vegetarian spicy miso,84.0,12,miso crab ramen,72.0
+07-30-2017,shio ramen,48.0,8,shio ramen,40.0
+07-31-2017,vegetarian spicy miso,224.0,32,soft-shell miso crab ramen,168.0
+08-01-2017,spicy miso ramen,238.0,34,spicy miso ramen,170.0
+08-02-2017,tonkotsu ramen,84.0,12,miso crab ramen,84.0
+08-03-2017,spicy miso ramen,238.0,34,truffle butter ramen,196.0
+08-04-2017,tori paitan ramen,266.0,38,tori paitan ramen,228.0
+08-05-2017,truffle butter ramen,42.0,6,truffle butter ramen,42.0
+08-06-2017,tonkotsu ramen,56.0,8,tonkotsu ramen,48.0
+08-07-2017,soft-shell miso crab ramen,70.0,10,soft-shell miso crab ramen,70.0
+08-08-2017,shio ramen,36.0,6,shio ramen,30.0
+08-09-2017,soft-shell miso crab ramen,84.0,12,soft-shell miso crab ramen,84.0
+08-10-2017,vegetarian spicy miso,238.0,34,vegetarian spicy miso,170.0
+08-11-2017,spicy miso ramen,196.0,28,miso crab ramen,180.0
+08-12-2017,shio ramen,240.0,40,shio ramen,200.0
+08-13-2017,vegetarian spicy miso,168.0,24,vegetarian spicy miso,120.0
+08-14-2017,tori paitan ramen,168.0,24,tori paitan ramen,144.0
+08-15-2017,vegetarian spicy miso,182.0,26,vegetarian spicy miso,130.0
+08-16-2017,burnt garlic tonkotsu ramen,16.0,2,burnt garlic tonkotsu ramen,12.0
+08-17-2017,burnt garlic tonkotsu ramen,64.0,8,truffle butter ramen,56.0
+08-18-2017,burnt garlic tonkotsu ramen,144.0,18,miso crab ramen,144.0
+08-19-2017,shio ramen,216.0,36,vegetarian curry + king trumpet mushroom ramen,182.0
+08-20-2017,vegetarian spicy miso,28.0,4,vegetarian spicy miso,20.0
+08-21-2017,shio ramen,192.0,32,vegetarian curry + king trumpet mushroom ramen,182.0
+08-22-2017,tonkotsu ramen,196.0,28,soft-shell miso crab ramen,182.0
+08-23-2017,tonkotsu ramen,196.0,28,tonkotsu ramen,168.0
+08-24-2017,shio ramen,156.0,26,shio ramen,130.0
+08-25-2017,vegetarian curry + king trumpet mushroom ramen,72.0,12,vegetarian curry + king trumpet mushroom ramen,84.0
+08-26-2017,nagomi shoyu,192.0,32,nagomi shoyu,160.0
+08-27-2017,burnt garlic tonkotsu ramen,112.0,14,truffle butter ramen,112.0
+08-28-2017,burnt garlic tonkotsu ramen,224.0,28,soft-shell miso crab ramen,182.0
+08-29-2017,spicy miso ramen,280.0,40,spicy miso ramen,200.0
+08-30-2017,tori paitan ramen,70.0,10,vegetarian curry + king trumpet mushroom ramen,70.0
+08-31-2017,shio ramen,180.0,30,vegetarian curry + king trumpet mushroom ramen,154.0
+09-01-2017,vegetarian curry + king trumpet mushroom ramen,264.0,44,vegetarian curry + king trumpet mushroom ramen,308.0
+09-02-2017,shio ramen,192.0,32,shio ramen,160.0
+09-03-2017,burnt garlic tonkotsu ramen,256.0,32,burnt garlic tonkotsu ramen,192.0
+09-04-2017,spicy miso ramen,294.0,42,spicy miso ramen,210.0
+09-05-2017,truffle butter ramen,112.0,16,truffle butter ramen,112.0
+09-06-2017,tori paitan ramen,126.0,18,tori paitan ramen,108.0
+09-07-2017,tori paitan ramen,126.0,18,tori paitan ramen,108.0
+09-08-2017,shio ramen,36.0,6,shio ramen,30.0
+09-09-2017,tori paitan ramen,196.0,28,vegetarian curry + king trumpet mushroom ramen,196.0
+09-10-2017,truffle butter ramen,238.0,34,truffle butter ramen,238.0
+09-11-2017,burnt garlic tonkotsu ramen,160.0,20,miso crab ramen,132.0
+09-12-2017,tonkotsu ramen,266.0,38,tonkotsu ramen,228.0
+09-13-2017,truffle butter ramen,210.0,30,truffle butter ramen,210.0
+09-14-2017,nagomi shoyu,228.0,38,truffle butter ramen,210.0
+09-15-2017,miso crab ramen,192.0,32,miso crab ramen,192.0
+09-16-2017,burnt garlic tonkotsu ramen,272.0,34,soft-shell miso crab ramen,210.0
+09-17-2017,truffle butter ramen,238.0,34,truffle butter ramen,238.0
+09-19-2017,tori paitan ramen,210.0,30,tori paitan ramen,180.0
+09-20-2017,truffle butter ramen,182.0,26,truffle butter ramen,182.0
+09-21-2017,shio ramen,204.0,34,shio ramen,170.0
+09-22-2017,burnt garlic tonkotsu ramen,80.0,10,vegetarian curry + king trumpet mushroom ramen,84.0
+09-23-2017,vegetarian spicy miso,168.0,24,truffle butter ramen,140.0
+09-24-2017,vegetarian spicy miso,28.0,4,vegetarian curry + king trumpet mushroom ramen,28.0
+09-25-2017,burnt garlic tonkotsu ramen,144.0,18,burnt garlic tonkotsu ramen,108.0
+09-26-2017,burnt garlic tonkotsu ramen,16.0,2,truffle butter ramen,14.0
+09-27-2017,burnt garlic tonkotsu ramen,176.0,22,tori paitan ramen,144.0
+09-28-2017,burnt garlic tonkotsu ramen,224.0,28,vegetarian curry + king trumpet mushroom ramen,210.0
+09-29-2017,vegetarian spicy miso,168.0,24,vegetarian spicy miso,120.0
+09-30-2017,burnt garlic tonkotsu ramen,16.0,2,tori paitan ramen,12.0
+10-01-2017,tonkotsu ramen,154.0,22,tonkotsu ramen,132.0
+10-02-2017,tonkotsu ramen,84.0,12,vegetarian curry + king trumpet mushroom ramen,84.0
+10-03-2017,nagomi shoyu,252.0,42,nagomi shoyu,210.0
+10-04-2017,truffle butter ramen,28.0,4,truffle butter ramen,28.0
+10-05-2017,burnt garlic tonkotsu ramen,144.0,18,truffle butter ramen,112.0
+10-06-2017,burnt garlic tonkotsu ramen,144.0,18,soft-shell miso crab ramen,126.0
+10-07-2017,burnt garlic tonkotsu ramen,256.0,32,vegetarian curry + king trumpet mushroom ramen,252.0
+10-08-2017,burnt garlic tonkotsu ramen,96.0,12,vegetarian curry + king trumpet mushroom ramen,112.0
+10-09-2017,soft-shell miso crab ramen,42.0,6,soft-shell miso crab ramen,42.0
+10-10-2017,soft-shell miso crab ramen,70.0,10,soft-shell miso crab ramen,70.0
+10-11-2017,vegetarian spicy miso,42.0,6,soft-shell miso crab ramen,42.0
+10-12-2017,tori paitan ramen,196.0,28,tori paitan ramen,168.0
+10-13-2017,soft-shell miso crab ramen,56.0,8,soft-shell miso crab ramen,56.0
+10-14-2017,soft-shell miso crab ramen,84.0,12,soft-shell miso crab ramen,84.0
+10-15-2017,burnt garlic tonkotsu ramen,80.0,10,burnt garlic tonkotsu ramen,60.0
+10-16-2017,vegetarian spicy miso,196.0,28,tori paitan ramen,156.0
+10-17-2017,nagomi shoyu,48.0,8,nagomi shoyu,40.0
+10-18-2017,soft-shell miso crab ramen,168.0,24,soft-shell miso crab ramen,168.0
+10-19-2017,vegetarian spicy miso,28.0,4,vegetarian spicy miso,20.0
+10-20-2017,tori paitan ramen,98.0,14,vegetarian curry + king trumpet mushroom ramen,98.0
+10-21-2017,tonkotsu ramen,266.0,38,tonkotsu ramen,228.0
+10-22-2017,tonkotsu ramen,182.0,26,tonkotsu ramen,156.0
+10-23-2017,nagomi shoyu,144.0,24,truffle butter ramen,126.0
+10-24-2017,vegetarian spicy miso,252.0,36,tonkotsu ramen,204.0
+10-25-2017,tori paitan ramen,168.0,24,tori paitan ramen,144.0
+10-26-2017,spicy miso ramen,252.0,36,soft-shell miso crab ramen,196.0
+10-27-2017,truffle butter ramen,140.0,20,vegetarian curry + king trumpet mushroom ramen,154.0
+10-28-2017,tori paitan ramen,182.0,26,tori paitan ramen,156.0
+10-29-2017,burnt garlic tonkotsu ramen,256.0,32,soft-shell miso crab ramen,224.0
+10-30-2017,tonkotsu ramen,224.0,32,tonkotsu ramen,192.0
+10-31-2017,tori paitan ramen,252.0,36,truffle butter ramen,224.0
+11-01-2017,soft-shell miso crab ramen,168.0,24,soft-shell miso crab ramen,168.0
+11-02-2017,spicy miso ramen,322.0,46,spicy miso ramen,230.0
+11-03-2017,shio ramen,204.0,34,shio ramen,170.0
+11-04-2017,burnt garlic tonkotsu ramen,336.0,42,burnt garlic tonkotsu ramen,252.0
+11-05-2017,miso crab ramen,228.0,38,miso crab ramen,228.0
+11-06-2017,tonkotsu ramen,238.0,34,soft-shell miso crab ramen,210.0
+11-07-2017,truffle butter ramen,112.0,16,truffle butter ramen,112.0
+11-08-2017,soft-shell miso crab ramen,84.0,12,soft-shell miso crab ramen,84.0
+11-09-2017,tori paitan ramen,126.0,18,soft-shell miso crab ramen,126.0
+11-10-2017,vegetarian curry + king trumpet mushroom ramen,36.0,6,vegetarian curry + king trumpet mushroom ramen,42.0
+11-11-2017,tori paitan ramen,224.0,32,truffle butter ramen,210.0
+11-12-2017,burnt garlic tonkotsu ramen,160.0,20,burnt garlic tonkotsu ramen,120.0
+11-13-2017,tonkotsu ramen,56.0,8,tonkotsu ramen,48.0
+11-14-2017,truffle butter ramen,210.0,30,truffle butter ramen,210.0
+11-15-2017,shio ramen,288.0,48,shio ramen,240.0
+11-16-2017,soft-shell miso crab ramen,280.0,40,soft-shell miso crab ramen,280.0
+11-17-2017,shio ramen,276.0,46,miso crab ramen,252.0
+11-18-2017,spicy miso ramen,238.0,34,spicy miso ramen,170.0
+11-19-2017,tori paitan ramen,182.0,26,vegetarian curry + king trumpet mushroom ramen,196.0
+11-20-2017,soft-shell miso crab ramen,42.0,6,soft-shell miso crab ramen,42.0
+11-21-2017,vegetarian curry + king trumpet mushroom ramen,48.0,8,vegetarian curry + king trumpet mushroom ramen,56.0
+11-22-2017,miso crab ramen,72.0,12,miso crab ramen,72.0
+11-23-2017,soft-shell miso crab ramen,224.0,32,soft-shell miso crab ramen,224.0
+11-24-2017,vegetarian spicy miso,168.0,24,vegetarian curry + king trumpet mushroom ramen,182.0
+11-25-2017,vegetarian spicy miso,84.0,12,vegetarian spicy miso,60.0
+11-26-2017,vegetarian spicy miso,168.0,24,truffle butter ramen,126.0
+11-27-2017,tori paitan ramen,224.0,32,tori paitan ramen,192.0
+11-28-2017,nagomi shoyu,204.0,34,vegetarian curry + king trumpet mushroom ramen,210.0
+11-29-2017,vegetarian spicy miso,308.0,44,shio ramen,230.0
+11-30-2017,burnt garlic tonkotsu ramen,48.0,6,burnt garlic tonkotsu ramen,36.0
+12-01-2017,spicy miso ramen,112.0,16,spicy miso ramen,80.0
+12-02-2017,truffle butter ramen,154.0,22,truffle butter ramen,154.0
+12-03-2017,vegetarian spicy miso,70.0,10,vegetarian spicy miso,50.0
+12-04-2017,tonkotsu ramen,154.0,22,tonkotsu ramen,132.0
+12-05-2017,truffle butter ramen,126.0,18,truffle butter ramen,126.0
+12-06-2017,spicy miso ramen,196.0,28,spicy miso ramen,140.0
+12-07-2017,spicy miso ramen,154.0,22,spicy miso ramen,110.0
+12-08-2017,vegetarian spicy miso,280.0,40,vegetarian curry + king trumpet mushroom ramen,294.0
+12-09-2017,burnt garlic tonkotsu ramen,208.0,26,miso crab ramen,204.0
+12-10-2017,tonkotsu ramen,266.0,38,tonkotsu ramen,228.0
+12-11-2017,tori paitan ramen,28.0,4,truffle butter ramen,28.0
+12-12-2017,vegetarian curry + king trumpet mushroom ramen,216.0,36,vegetarian curry + king trumpet mushroom ramen,252.0
+12-13-2017,spicy miso ramen,112.0,16,miso crab ramen,108.0
+12-14-2017,soft-shell miso crab ramen,196.0,28,soft-shell miso crab ramen,196.0
+12-15-2017,miso crab ramen,228.0,38,miso crab ramen,228.0
+12-16-2017,truffle butter ramen,56.0,8,truffle butter ramen,56.0
+12-17-2017,nagomi shoyu,216.0,36,nagomi shoyu,180.0
+12-18-2017,nagomi shoyu,132.0,22,truffle butter ramen,126.0
+12-19-2017,shio ramen,48.0,8,shio ramen,40.0
+12-20-2017,vegetarian curry + king trumpet mushroom ramen,12.0,2,vegetarian curry + king trumpet mushroom ramen,14.0
+12-21-2017,burnt garlic tonkotsu ramen,256.0,32,soft-shell miso crab ramen,210.0
+12-22-2017,tonkotsu ramen,168.0,24,tonkotsu ramen,144.0
+12-23-2017,spicy miso ramen,224.0,32,spicy miso ramen,160.0
+12-24-2017,vegetarian curry + king trumpet mushroom ramen,240.0,40,vegetarian curry + king trumpet mushroom ramen,280.0
+12-25-2017,shio ramen,300.0,50,shio ramen,250.0
+12-26-2017,vegetarian curry + king trumpet mushroom ramen,72.0,12,vegetarian curry + king trumpet mushroom ramen,84.0
+12-27-2017,tori paitan ramen,28.0,4,tori paitan ramen,24.0
+12-28-2017,tonkotsu ramen,182.0,26,tonkotsu ramen,156.0
+12-29-2017,burnt garlic tonkotsu ramen,112.0,14,burnt garlic tonkotsu ramen,84.0
+12-30-2017,vegetarian spicy miso,224.0,32,truffle butter ramen,196.0
+12-31-2017,soft-shell miso crab ramen,112.0,16,soft-shell miso crab ramen,112.0
+01-01-2018,shio ramen,108.0,18,shio ramen,90.0
+01-02-2018,tonkotsu ramen,238.0,34,tonkotsu ramen,204.0
+01-03-2018,tonkotsu ramen,140.0,20,tonkotsu ramen,120.0
+01-04-2018,miso crab ramen,156.0,26,miso crab ramen,156.0
+01-05-2018,tonkotsu ramen,98.0,14,tonkotsu ramen,84.0
+01-06-2018,vegetarian spicy miso,56.0,8,vegetarian spicy miso,40.0
+01-07-2018,tonkotsu ramen,168.0,24,tonkotsu ramen,144.0
+01-08-2018,shio ramen,108.0,18,vegetarian curry + king trumpet mushroom ramen,112.0
+01-09-2018,spicy miso ramen,224.0,32,soft-shell miso crab ramen,210.0
+01-10-2018,burnt garlic tonkotsu ramen,208.0,26,shio ramen,160.0
+01-11-2018,tonkotsu ramen,308.0,44,tonkotsu ramen,264.0
+01-12-2018,soft-shell miso crab ramen,140.0,20,soft-shell miso crab ramen,140.0
+01-13-2018,soft-shell miso crab ramen,70.0,10,soft-shell miso crab ramen,70.0
+01-14-2018,burnt garlic tonkotsu ramen,64.0,8,burnt garlic tonkotsu ramen,48.0
+01-15-2018,spicy miso ramen,238.0,34,spicy miso ramen,170.0
+01-16-2018,tori paitan ramen,182.0,26,truffle butter ramen,182.0
+01-17-2018,tori paitan ramen,182.0,26,tori paitan ramen,156.0
+01-18-2018,tori paitan ramen,98.0,14,tori paitan ramen,84.0
+01-19-2018,burnt garlic tonkotsu ramen,96.0,12,burnt garlic tonkotsu ramen,72.0
+01-20-2018,truffle butter ramen,308.0,44,truffle butter ramen,308.0
+01-21-2018,soft-shell miso crab ramen,140.0,20,soft-shell miso crab ramen,140.0
+01-22-2018,tonkotsu ramen,252.0,36,tonkotsu ramen,216.0
+01-23-2018,soft-shell miso crab ramen,84.0,12,soft-shell miso crab ramen,84.0
+01-24-2018,burnt garlic tonkotsu ramen,256.0,32,burnt garlic tonkotsu ramen,192.0
+01-25-2018,tonkotsu ramen,84.0,12,tonkotsu ramen,72.0
+01-26-2018,truffle butter ramen,210.0,30,truffle butter ramen,210.0
+01-27-2018,tori paitan ramen,224.0,32,tori paitan ramen,192.0
+01-28-2018,soft-shell miso crab ramen,112.0,16,soft-shell miso crab ramen,112.0
+01-29-2018,soft-shell miso crab ramen,210.0,30,soft-shell miso crab ramen,210.0
+01-30-2018,truffle butter ramen,182.0,26,truffle butter ramen,182.0
+01-31-2018,tonkotsu ramen,210.0,30,tonkotsu ramen,180.0
+02-01-2018,burnt garlic tonkotsu ramen,96.0,12,burnt garlic tonkotsu ramen,72.0
+02-02-2018,spicy miso ramen,224.0,32,miso crab ramen,192.0
+02-03-2018,soft-shell miso crab ramen,266.0,38,soft-shell miso crab ramen,266.0
+02-04-2018,spicy miso ramen,56.0,8,truffle butter ramen,42.0
+02-05-2018,burnt garlic tonkotsu ramen,64.0,8,burnt garlic tonkotsu ramen,48.0
+02-06-2018,burnt garlic tonkotsu ramen,256.0,32,burnt garlic tonkotsu ramen,192.0
+02-07-2018,vegetarian spicy miso,266.0,38,vegetarian curry + king trumpet mushroom ramen,210.0
+02-08-2018,miso crab ramen,180.0,30,miso crab ramen,180.0
+02-09-2018,tori paitan ramen,42.0,6,tori paitan ramen,36.0
+02-10-2018,vegetarian curry + king trumpet mushroom ramen,72.0,12,vegetarian curry + king trumpet mushroom ramen,84.0
+02-11-2018,burnt garlic tonkotsu ramen,288.0,36,burnt garlic tonkotsu ramen,216.0
+02-12-2018,burnt garlic tonkotsu ramen,176.0,22,vegetarian curry + king trumpet mushroom ramen,182.0
+02-13-2018,tori paitan ramen,112.0,16,tori paitan ramen,96.0
+02-14-2018,vegetarian spicy miso,210.0,30,tori paitan ramen,156.0
+02-15-2018,burnt garlic tonkotsu ramen,64.0,8,truffle butter ramen,56.0
+02-16-2018,tori paitan ramen,252.0,36,tori paitan ramen,216.0
+02-17-2018,burnt garlic tonkotsu ramen,272.0,34,burnt garlic tonkotsu ramen,204.0
+02-18-2018,tonkotsu ramen,266.0,38,tonkotsu ramen,228.0
+02-19-2018,tori paitan ramen,154.0,22,tori paitan ramen,132.0
+02-20-2018,soft-shell miso crab ramen,252.0,36,soft-shell miso crab ramen,252.0
+02-21-2018,spicy miso ramen,238.0,34,truffle butter ramen,182.0
+02-22-2018,nagomi shoyu,120.0,20,nagomi shoyu,100.0
+02-23-2018,tonkotsu ramen,70.0,10,tonkotsu ramen,60.0
+02-24-2018,soft-shell miso crab ramen,224.0,32,soft-shell miso crab ramen,224.0
+02-25-2018,burnt garlic tonkotsu ramen,192.0,24,tori paitan ramen,156.0
+02-26-2018,vegetarian spicy miso,224.0,32,miso crab ramen,180.0
+02-27-2018,soft-shell miso crab ramen,112.0,16,soft-shell miso crab ramen,112.0
+02-28-2018,nagomi shoyu,156.0,26,nagomi shoyu,130.0
+03-01-2018,vegetarian curry + king trumpet mushroom ramen,204.0,34,vegetarian curry + king trumpet mushroom ramen,238.0
+03-02-2018,vegetarian spicy miso,112.0,16,nagomi shoyu,90.0
+03-03-2018,burnt garlic tonkotsu ramen,192.0,24,soft-shell miso crab ramen,154.0
+03-04-2018,shio ramen,84.0,14,shio ramen,70.0
+03-05-2018,nagomi shoyu,12.0,2,nagomi shoyu,10.0
+03-06-2018,spicy miso ramen,224.0,32,spicy miso ramen,160.0
+03-07-2018,tonkotsu ramen,154.0,22,tonkotsu ramen,132.0
+03-08-2018,spicy miso ramen,140.0,20,vegetarian curry + king trumpet mushroom ramen,112.0
+03-09-2018,shio ramen,240.0,40,shio ramen,200.0
+03-10-2018,tonkotsu ramen,336.0,48,tonkotsu ramen,288.0
+03-11-2018,vegetarian curry + king trumpet mushroom ramen,180.0,30,vegetarian curry + king trumpet mushroom ramen,210.0
+03-12-2018,miso crab ramen,216.0,36,miso crab ramen,216.0
+03-13-2018,shio ramen,12.0,2,shio ramen,10.0
+03-14-2018,spicy miso ramen,210.0,30,spicy miso ramen,150.0
+03-15-2018,spicy miso ramen,224.0,32,vegetarian curry + king trumpet mushroom ramen,210.0
+03-16-2018,spicy miso ramen,112.0,16,miso crab ramen,108.0
+03-17-2018,burnt garlic tonkotsu ramen,48.0,6,burnt garlic tonkotsu ramen,36.0
+03-18-2018,soft-shell miso crab ramen,182.0,26,soft-shell miso crab ramen,182.0
+03-19-2018,spicy miso ramen,56.0,8,spicy miso ramen,40.0
+03-20-2018,burnt garlic tonkotsu ramen,384.0,48,burnt garlic tonkotsu ramen,288.0
+03-22-2018,burnt garlic tonkotsu ramen,112.0,14,burnt garlic tonkotsu ramen,84.0
+03-23-2018,soft-shell miso crab ramen,154.0,22,soft-shell miso crab ramen,154.0
+03-24-2018,burnt garlic tonkotsu ramen,48.0,6,burnt garlic tonkotsu ramen,36.0
+03-25-2018,tonkotsu ramen,56.0,8,tonkotsu ramen,48.0
+03-26-2018,burnt garlic tonkotsu ramen,176.0,22,burnt garlic tonkotsu ramen,132.0
+03-27-2018,truffle butter ramen,140.0,20,truffle butter ramen,140.0
+03-28-2018,burnt garlic tonkotsu ramen,128.0,16,burnt garlic tonkotsu ramen,96.0
+03-29-2018,tonkotsu ramen,238.0,34,tonkotsu ramen,204.0
+03-30-2018,tonkotsu ramen,28.0,4,soft-shell miso crab ramen,28.0
+03-31-2018,tori paitan ramen,294.0,42,tori paitan ramen,252.0
+04-01-2018,soft-shell miso crab ramen,98.0,14,soft-shell miso crab ramen,98.0
+04-02-2018,truffle butter ramen,294.0,42,truffle butter ramen,294.0
+04-03-2018,vegetarian curry + king trumpet mushroom ramen,72.0,12,vegetarian curry + king trumpet mushroom ramen,84.0
+04-04-2018,shio ramen,132.0,22,miso crab ramen,120.0
+04-05-2018,tori paitan ramen,140.0,20,vegetarian curry + king trumpet mushroom ramen,154.0
+04-06-2018,vegetarian spicy miso,266.0,38,miso crab ramen,204.0
+04-07-2018,burnt garlic tonkotsu ramen,192.0,24,burnt garlic tonkotsu ramen,144.0
+04-08-2018,vegetarian spicy miso,84.0,12,vegetarian curry + king trumpet mushroom ramen,70.0
+04-09-2018,burnt garlic tonkotsu ramen,288.0,36,burnt garlic tonkotsu ramen,216.0
+04-10-2018,tori paitan ramen,196.0,28,soft-shell miso crab ramen,182.0
+04-11-2018,burnt garlic tonkotsu ramen,384.0,48,burnt garlic tonkotsu ramen,288.0
+04-12-2018,nagomi shoyu,192.0,32,nagomi shoyu,160.0
+04-13-2018,truffle butter ramen,238.0,34,truffle butter ramen,238.0
+04-14-2018,miso crab ramen,72.0,12,vegetarian curry + king trumpet mushroom ramen,84.0
+04-15-2018,burnt garlic tonkotsu ramen,272.0,34,burnt garlic tonkotsu ramen,204.0
+04-16-2018,nagomi shoyu,72.0,12,nagomi shoyu,60.0
+04-17-2018,vegetarian spicy miso,154.0,22,vegetarian spicy miso,110.0
+04-18-2018,tori paitan ramen,210.0,30,truffle butter ramen,182.0
+04-19-2018,spicy miso ramen,70.0,10,tonkotsu ramen,60.0
+04-20-2018,vegetarian curry + king trumpet mushroom ramen,108.0,18,vegetarian curry + king trumpet mushroom ramen,126.0
+04-21-2018,spicy miso ramen,168.0,24,soft-shell miso crab ramen,126.0
+04-22-2018,vegetarian spicy miso,280.0,40,vegetarian curry + king trumpet mushroom ramen,210.0
+04-23-2018,truffle butter ramen,112.0,16,truffle butter ramen,112.0
+04-24-2018,tonkotsu ramen,182.0,26,tonkotsu ramen,156.0
+04-25-2018,tori paitan ramen,126.0,18,tori paitan ramen,108.0
+04-26-2018,soft-shell miso crab ramen,182.0,26,soft-shell miso crab ramen,182.0
+04-27-2018,vegetarian curry + king trumpet mushroom ramen,72.0,12,vegetarian curry + king trumpet mushroom ramen,84.0
+04-28-2018,burnt garlic tonkotsu ramen,160.0,20,truffle butter ramen,126.0
+04-29-2018,truffle butter ramen,238.0,34,truffle butter ramen,238.0
+04-30-2018,shio ramen,132.0,22,shio ramen,110.0
+05-01-2018,tonkotsu ramen,280.0,40,tonkotsu ramen,240.0
+05-02-2018,spicy miso ramen,224.0,32,soft-shell miso crab ramen,210.0
+05-03-2018,burnt garlic tonkotsu ramen,96.0,12,burnt garlic tonkotsu ramen,72.0
+05-04-2018,shio ramen,168.0,28,shio ramen,140.0
+05-05-2018,burnt garlic tonkotsu ramen,208.0,26,burnt garlic tonkotsu ramen,156.0
+05-06-2018,miso crab ramen,192.0,32,miso crab ramen,192.0
+05-07-2018,truffle butter ramen,98.0,14,truffle butter ramen,98.0
+05-08-2018,shio ramen,12.0,2,shio ramen,10.0
+05-09-2018,nagomi shoyu,204.0,34,nagomi shoyu,170.0
+05-10-2018,vegetarian spicy miso,224.0,32,vegetarian curry + king trumpet mushroom ramen,252.0
+05-11-2018,burnt garlic tonkotsu ramen,32.0,4,vegetarian curry + king trumpet mushroom ramen,28.0
+05-12-2018,burnt garlic tonkotsu ramen,224.0,28,burnt garlic tonkotsu ramen,168.0
+05-13-2018,vegetarian spicy miso,56.0,8,soft-shell miso crab ramen,56.0
+05-14-2018,burnt garlic tonkotsu ramen,224.0,28,burnt garlic tonkotsu ramen,168.0
+05-15-2018,nagomi shoyu,252.0,42,nagomi shoyu,210.0
+05-16-2018,truffle butter ramen,238.0,34,truffle butter ramen,238.0
+05-17-2018,vegetarian spicy miso,210.0,30,vegetarian curry + king trumpet mushroom ramen,224.0
+05-18-2018,burnt garlic tonkotsu ramen,224.0,28,burnt garlic tonkotsu ramen,168.0
+05-19-2018,soft-shell miso crab ramen,126.0,18,soft-shell miso crab ramen,126.0
+05-20-2018,vegetarian spicy miso,84.0,12,vegetarian spicy miso,60.0
+05-21-2018,shio ramen,156.0,26,shio ramen,130.0
+05-22-2018,spicy miso ramen,224.0,32,tori paitan ramen,180.0
+05-23-2018,soft-shell miso crab ramen,42.0,6,soft-shell miso crab ramen,42.0
+05-24-2018,tori paitan ramen,182.0,26,tori paitan ramen,156.0
+05-25-2018,nagomi shoyu,156.0,26,nagomi shoyu,130.0
+05-26-2018,soft-shell miso crab ramen,294.0,42,soft-shell miso crab ramen,294.0
+05-27-2018,miso crab ramen,60.0,10,miso crab ramen,60.0
+05-28-2018,truffle butter ramen,112.0,16,truffle butter ramen,112.0
+05-29-2018,truffle butter ramen,84.0,12,vegetarian curry + king trumpet mushroom ramen,98.0
+05-30-2018,tonkotsu ramen,224.0,32,truffle butter ramen,210.0
+05-31-2018,soft-shell miso crab ramen,28.0,4,soft-shell miso crab ramen,28.0
+06-01-2018,truffle butter ramen,126.0,18,truffle butter ramen,126.0
+06-02-2018,truffle butter ramen,238.0,34,truffle butter ramen,238.0
+06-03-2018,vegetarian curry + king trumpet mushroom ramen,144.0,24,vegetarian curry + king trumpet mushroom ramen,168.0
+06-04-2018,truffle butter ramen,154.0,22,truffle butter ramen,154.0
+06-05-2018,truffle butter ramen,280.0,40,truffle butter ramen,280.0
+06-06-2018,vegetarian curry + king trumpet mushroom ramen,228.0,38,vegetarian curry + king trumpet mushroom ramen,266.0
+06-07-2018,burnt garlic tonkotsu ramen,16.0,2,soft-shell miso crab ramen,14.0
+06-08-2018,tonkotsu ramen,252.0,36,tonkotsu ramen,216.0
+06-09-2018,burnt garlic tonkotsu ramen,176.0,22,miso crab ramen,168.0
+06-10-2018,burnt garlic tonkotsu ramen,128.0,16,soft-shell miso crab ramen,98.0
+06-11-2018,tori paitan ramen,224.0,32,tori paitan ramen,192.0
+06-12-2018,truffle butter ramen,84.0,12,truffle butter ramen,84.0
+06-13-2018,burnt garlic tonkotsu ramen,208.0,26,truffle butter ramen,196.0
+06-14-2018,vegetarian spicy miso,280.0,40,vegetarian spicy miso,200.0
+06-15-2018,burnt garlic tonkotsu ramen,288.0,36,burnt garlic tonkotsu ramen,216.0
+06-16-2018,vegetarian spicy miso,70.0,10,vegetarian spicy miso,50.0
+06-17-2018,vegetarian spicy miso,70.0,10,vegetarian spicy miso,50.0
+06-18-2018,vegetarian spicy miso,168.0,24,tonkotsu ramen,132.0
+06-19-2018,vegetarian curry + king trumpet mushroom ramen,60.0,10,vegetarian curry + king trumpet mushroom ramen,70.0
+06-20-2018,soft-shell miso crab ramen,182.0,26,soft-shell miso crab ramen,182.0
+06-21-2018,miso crab ramen,144.0,24,miso crab ramen,144.0
+06-22-2018,spicy miso ramen,182.0,26,spicy miso ramen,130.0
+06-23-2018,spicy miso ramen,280.0,40,spicy miso ramen,200.0
+06-24-2018,burnt garlic tonkotsu ramen,208.0,26,burnt garlic tonkotsu ramen,156.0
+06-25-2018,vegetarian spicy miso,238.0,34,vegetarian spicy miso,170.0
+06-26-2018,soft-shell miso crab ramen,70.0,10,soft-shell miso crab ramen,70.0
+06-27-2018,vegetarian spicy miso,154.0,22,vegetarian curry + king trumpet mushroom ramen,140.0
+06-28-2018,tori paitan ramen,84.0,12,tori paitan ramen,72.0
+06-29-2018,miso crab ramen,324.0,54,miso crab ramen,324.0
+06-30-2018,vegetarian spicy miso,224.0,32,vegetarian spicy miso,160.0
+07-01-2018,soft-shell miso crab ramen,140.0,20,soft-shell miso crab ramen,140.0
+07-02-2018,vegetarian spicy miso,196.0,28,vegetarian curry + king trumpet mushroom ramen,196.0
+07-03-2018,soft-shell miso crab ramen,210.0,30,soft-shell miso crab ramen,210.0
+07-04-2018,shio ramen,36.0,6,shio ramen,30.0
+07-05-2018,soft-shell miso crab ramen,280.0,40,soft-shell miso crab ramen,280.0
+07-06-2018,tori paitan ramen,154.0,22,tori paitan ramen,132.0
+07-07-2018,tonkotsu ramen,112.0,16,tonkotsu ramen,96.0
+07-08-2018,soft-shell miso crab ramen,98.0,14,soft-shell miso crab ramen,98.0
+07-09-2018,burnt garlic tonkotsu ramen,80.0,10,miso crab ramen,60.0
+07-10-2018,burnt garlic tonkotsu ramen,288.0,36,burnt garlic tonkotsu ramen,216.0
+07-11-2018,nagomi shoyu,60.0,10,soft-shell miso crab ramen,56.0
+07-12-2018,soft-shell miso crab ramen,154.0,22,soft-shell miso crab ramen,154.0
+07-13-2018,tonkotsu ramen,196.0,28,tonkotsu ramen,168.0
+07-14-2018,soft-shell miso crab ramen,112.0,16,soft-shell miso crab ramen,112.0
+07-15-2018,tonkotsu ramen,140.0,20,tonkotsu ramen,120.0
+07-16-2018,shio ramen,84.0,14,shio ramen,70.0
+07-17-2018,tori paitan ramen,196.0,28,vegetarian curry + king trumpet mushroom ramen,196.0
+07-18-2018,vegetarian spicy miso,196.0,28,vegetarian spicy miso,140.0
+07-19-2018,burnt garlic tonkotsu ramen,192.0,24,burnt garlic tonkotsu ramen,144.0
+07-20-2018,burnt garlic tonkotsu ramen,288.0,36,burnt garlic tonkotsu ramen,216.0
+07-21-2018,soft-shell miso crab ramen,14.0,2,soft-shell miso crab ramen,14.0
+07-22-2018,shio ramen,96.0,16,shio ramen,80.0
+07-23-2018,truffle butter ramen,210.0,30,truffle butter ramen,210.0
+07-24-2018,burnt garlic tonkotsu ramen,144.0,18,soft-shell miso crab ramen,140.0
+07-25-2018,burnt garlic tonkotsu ramen,192.0,24,truffle butter ramen,154.0
+07-26-2018,tonkotsu ramen,252.0,36,tonkotsu ramen,216.0
+07-27-2018,soft-shell miso crab ramen,140.0,20,soft-shell miso crab ramen,140.0
+07-28-2018,miso crab ramen,204.0,34,miso crab ramen,204.0
+07-29-2018,miso crab ramen,120.0,20,miso crab ramen,120.0
+07-30-2018,burnt garlic tonkotsu ramen,208.0,26,burnt garlic tonkotsu ramen,156.0
+07-31-2018,miso crab ramen,216.0,36,miso crab ramen,216.0
+08-01-2018,burnt garlic tonkotsu ramen,208.0,26,burnt garlic tonkotsu ramen,156.0
+08-02-2018,tonkotsu ramen,140.0,20,tonkotsu ramen,120.0
+08-03-2018,nagomi shoyu,228.0,38,nagomi shoyu,190.0
+08-04-2018,nagomi shoyu,132.0,22,truffle butter ramen,126.0
+08-05-2018,vegetarian spicy miso,154.0,22,vegetarian spicy miso,110.0
+08-06-2018,tonkotsu ramen,238.0,34,truffle butter ramen,224.0
+08-07-2018,shio ramen,276.0,46,shio ramen,230.0
+08-08-2018,nagomi shoyu,192.0,32,nagomi shoyu,160.0
+08-09-2018,burnt garlic tonkotsu ramen,176.0,22,soft-shell miso crab ramen,168.0
+08-10-2018,nagomi shoyu,84.0,14,truffle butter ramen,70.0
+08-11-2018,truffle butter ramen,168.0,24,truffle butter ramen,168.0
+08-13-2018,spicy miso ramen,210.0,30,spicy miso ramen,150.0
+08-14-2018,burnt garlic tonkotsu ramen,192.0,24,burnt garlic tonkotsu ramen,144.0
+08-15-2018,shio ramen,120.0,20,shio ramen,100.0
+08-16-2018,shio ramen,204.0,34,vegetarian curry + king trumpet mushroom ramen,196.0
+08-17-2018,tori paitan ramen,280.0,40,tori paitan ramen,240.0
+08-18-2018,truffle butter ramen,210.0,30,truffle butter ramen,210.0
+08-19-2018,spicy miso ramen,42.0,6,spicy miso ramen,30.0
+08-20-2018,shio ramen,264.0,44,shio ramen,220.0
+08-21-2018,truffle butter ramen,252.0,36,truffle butter ramen,252.0
+08-22-2018,vegetarian spicy miso,98.0,14,vegetarian curry + king trumpet mushroom ramen,84.0
+08-23-2018,tonkotsu ramen,224.0,32,tonkotsu ramen,192.0
+08-24-2018,vegetarian spicy miso,168.0,24,vegetarian spicy miso,120.0
+08-25-2018,soft-shell miso crab ramen,308.0,44,soft-shell miso crab ramen,308.0
+08-26-2018,shio ramen,12.0,2,shio ramen,10.0
+08-27-2018,truffle butter ramen,224.0,32,truffle butter ramen,224.0
+08-28-2018,vegetarian curry + king trumpet mushroom ramen,264.0,44,vegetarian curry + king trumpet mushroom ramen,308.0
+08-29-2018,spicy miso ramen,322.0,46,shio ramen,240.0
+08-30-2018,spicy miso ramen,28.0,4,spicy miso ramen,20.0
+08-31-2018,nagomi shoyu,120.0,20,nagomi shoyu,100.0
+09-01-2018,shio ramen,204.0,34,truffle butter ramen,196.0
+09-02-2018,vegetarian spicy miso,56.0,8,vegetarian spicy miso,40.0
+09-03-2018,tonkotsu ramen,182.0,26,vegetarian curry + king trumpet mushroom ramen,210.0
+09-04-2018,tori paitan ramen,182.0,26,vegetarian curry + king trumpet mushroom ramen,210.0
+09-05-2018,burnt garlic tonkotsu ramen,48.0,6,burnt garlic tonkotsu ramen,36.0
+09-06-2018,vegetarian spicy miso,182.0,26,truffle butter ramen,168.0
+09-07-2018,burnt garlic tonkotsu ramen,272.0,34,tonkotsu ramen,228.0
+09-08-2018,soft-shell miso crab ramen,224.0,32,soft-shell miso crab ramen,224.0
+09-09-2018,burnt garlic tonkotsu ramen,240.0,30,burnt garlic tonkotsu ramen,180.0
+09-10-2018,burnt garlic tonkotsu ramen,208.0,26,tonkotsu ramen,156.0
+09-11-2018,burnt garlic tonkotsu ramen,192.0,24,burnt garlic tonkotsu ramen,144.0
+09-12-2018,tonkotsu ramen,238.0,34,tonkotsu ramen,204.0
+09-13-2018,burnt garlic tonkotsu ramen,192.0,24,vegetarian curry + king trumpet mushroom ramen,154.0
+09-14-2018,truffle butter ramen,168.0,24,truffle butter ramen,168.0
+09-15-2018,spicy miso ramen,70.0,10,truffle butter ramen,56.0
+09-16-2018,nagomi shoyu,168.0,28,nagomi shoyu,140.0
+09-17-2018,burnt garlic tonkotsu ramen,208.0,26,miso crab ramen,180.0
+09-18-2018,tonkotsu ramen,238.0,34,tonkotsu ramen,204.0
+09-19-2018,spicy miso ramen,336.0,48,spicy miso ramen,240.0
+09-20-2018,spicy miso ramen,238.0,34,spicy miso ramen,170.0
+09-21-2018,shio ramen,156.0,26,vegetarian curry + king trumpet mushroom ramen,154.0
+09-22-2018,shio ramen,84.0,14,shio ramen,70.0
+09-23-2018,tori paitan ramen,112.0,16,vegetarian curry + king trumpet mushroom ramen,98.0
+09-24-2018,vegetarian curry + king trumpet mushroom ramen,180.0,30,vegetarian curry + king trumpet mushroom ramen,210.0
+09-25-2018,burnt garlic tonkotsu ramen,208.0,26,tonkotsu ramen,168.0
+09-26-2018,nagomi shoyu,204.0,34,nagomi shoyu,170.0
+09-27-2018,vegetarian spicy miso,182.0,26,vegetarian curry + king trumpet mushroom ramen,196.0
+09-28-2018,vegetarian spicy miso,98.0,14,vegetarian spicy miso,70.0
+09-29-2018,shio ramen,264.0,44,shio ramen,220.0
+09-30-2018,tori paitan ramen,210.0,30,tori paitan ramen,180.0
+10-01-2018,tori paitan ramen,126.0,18,tori paitan ramen,108.0
+10-02-2018,burnt garlic tonkotsu ramen,256.0,32,vegetarian curry + king trumpet mushroom ramen,280.0
+10-03-2018,nagomi shoyu,132.0,22,vegetarian curry + king trumpet mushroom ramen,126.0
+10-04-2018,burnt garlic tonkotsu ramen,240.0,30,burnt garlic tonkotsu ramen,180.0
+10-05-2018,soft-shell miso crab ramen,266.0,38,soft-shell miso crab ramen,266.0
+10-06-2018,burnt garlic tonkotsu ramen,192.0,24,vegetarian curry + king trumpet mushroom ramen,210.0
+10-07-2018,vegetarian spicy miso,70.0,10,vegetarian curry + king trumpet mushroom ramen,70.0
+10-08-2018,burnt garlic tonkotsu ramen,176.0,22,burnt garlic tonkotsu ramen,132.0
+10-09-2018,truffle butter ramen,140.0,20,truffle butter ramen,140.0
+10-10-2018,truffle butter ramen,196.0,28,truffle butter ramen,196.0
+10-11-2018,spicy miso ramen,154.0,22,spicy miso ramen,110.0
+10-12-2018,vegetarian spicy miso,56.0,8,tori paitan ramen,48.0
+10-13-2018,miso crab ramen,60.0,10,miso crab ramen,60.0
+10-14-2018,nagomi shoyu,144.0,24,nagomi shoyu,120.0
+10-15-2018,burnt garlic tonkotsu ramen,16.0,2,burnt garlic tonkotsu ramen,12.0
+10-16-2018,burnt garlic tonkotsu ramen,32.0,4,burnt garlic tonkotsu ramen,24.0
+10-17-2018,shio ramen,120.0,20,shio ramen,100.0
+10-18-2018,spicy miso ramen,252.0,36,miso crab ramen,204.0
+10-19-2018,spicy miso ramen,238.0,34,miso crab ramen,204.0
+10-20-2018,truffle butter ramen,126.0,18,vegetarian curry + king trumpet mushroom ramen,140.0
+10-21-2018,spicy miso ramen,168.0,24,vegetarian curry + king trumpet mushroom ramen,182.0
+10-22-2018,spicy miso ramen,168.0,24,spicy miso ramen,120.0
+10-23-2018,truffle butter ramen,112.0,16,truffle butter ramen,112.0
+10-24-2018,vegetarian spicy miso,196.0,28,vegetarian curry + king trumpet mushroom ramen,154.0
+10-25-2018,soft-shell miso crab ramen,84.0,12,soft-shell miso crab ramen,84.0
+10-26-2018,vegetarian spicy miso,210.0,30,vegetarian curry + king trumpet mushroom ramen,154.0
+10-27-2018,burnt garlic tonkotsu ramen,208.0,26,burnt garlic tonkotsu ramen,156.0
+10-28-2018,soft-shell miso crab ramen,84.0,12,soft-shell miso crab ramen,84.0
+10-29-2018,burnt garlic tonkotsu ramen,240.0,30,vegetarian curry + king trumpet mushroom ramen,224.0
+10-30-2018,tonkotsu ramen,70.0,10,tonkotsu ramen,60.0
+10-31-2018,vegetarian spicy miso,140.0,20,truffle butter ramen,126.0
+11-01-2018,spicy miso ramen,70.0,10,truffle butter ramen,70.0
+11-02-2018,truffle butter ramen,196.0,28,truffle butter ramen,196.0
+11-03-2018,miso crab ramen,240.0,40,miso crab ramen,240.0
+11-04-2018,spicy miso ramen,168.0,24,truffle butter ramen,154.0
+11-05-2018,miso crab ramen,48.0,8,miso crab ramen,48.0
+11-06-2018,tori paitan ramen,28.0,4,soft-shell miso crab ramen,28.0
+11-07-2018,tori paitan ramen,294.0,42,tori paitan ramen,252.0
+11-08-2018,vegetarian spicy miso,196.0,28,tori paitan ramen,144.0
+11-09-2018,shio ramen,192.0,32,shio ramen,160.0
+11-10-2018,vegetarian spicy miso,210.0,30,soft-shell miso crab ramen,168.0
+11-11-2018,miso crab ramen,180.0,30,miso crab ramen,180.0
+11-12-2018,spicy miso ramen,210.0,30,spicy miso ramen,150.0
+11-13-2018,tori paitan ramen,98.0,14,tori paitan ramen,84.0
+11-14-2018,tonkotsu ramen,168.0,24,tonkotsu ramen,144.0
+11-15-2018,soft-shell miso crab ramen,168.0,24,soft-shell miso crab ramen,168.0
+11-16-2018,truffle butter ramen,70.0,10,truffle butter ramen,70.0
+11-17-2018,vegetarian curry + king trumpet mushroom ramen,216.0,36,vegetarian curry + king trumpet mushroom ramen,252.0
+11-18-2018,miso crab ramen,72.0,12,miso crab ramen,72.0
+11-19-2018,spicy miso ramen,112.0,16,spicy miso ramen,80.0
+11-20-2018,burnt garlic tonkotsu ramen,176.0,22,burnt garlic tonkotsu ramen,132.0
+11-21-2018,burnt garlic tonkotsu ramen,96.0,12,burnt garlic tonkotsu ramen,72.0
+11-22-2018,burnt garlic tonkotsu ramen,192.0,24,burnt garlic tonkotsu ramen,144.0
+11-23-2018,burnt garlic tonkotsu ramen,80.0,10,soft-shell miso crab ramen,70.0
+11-24-2018,nagomi shoyu,180.0,30,nagomi shoyu,150.0
+11-25-2018,burnt garlic tonkotsu ramen,128.0,16,burnt garlic tonkotsu ramen,96.0
+11-26-2018,tori paitan ramen,56.0,8,tori paitan ramen,48.0
+11-27-2018,miso crab ramen,216.0,36,miso crab ramen,216.0
+11-28-2018,tori paitan ramen,168.0,24,tori paitan ramen,144.0
+11-29-2018,tonkotsu ramen,238.0,34,tonkotsu ramen,204.0
+11-30-2018,nagomi shoyu,144.0,24,soft-shell miso crab ramen,126.0
+12-01-2018,tori paitan ramen,266.0,38,tori paitan ramen,228.0
+12-02-2018,tori paitan ramen,70.0,10,tori paitan ramen,60.0
+12-03-2018,vegetarian curry + king trumpet mushroom ramen,96.0,16,vegetarian curry + king trumpet mushroom ramen,112.0
+12-04-2018,tonkotsu ramen,70.0,10,tonkotsu ramen,60.0
+12-05-2018,tonkotsu ramen,42.0,6,vegetarian curry + king trumpet mushroom ramen,42.0
+12-06-2018,tonkotsu ramen,98.0,14,tonkotsu ramen,84.0
+12-07-2018,shio ramen,84.0,14,shio ramen,70.0
+12-08-2018,tonkotsu ramen,168.0,24,tonkotsu ramen,144.0
+12-09-2018,soft-shell miso crab ramen,154.0,22,soft-shell miso crab ramen,154.0
+12-10-2018,burnt garlic tonkotsu ramen,160.0,20,burnt garlic tonkotsu ramen,120.0
+12-11-2018,truffle butter ramen,182.0,26,truffle butter ramen,182.0
+12-12-2018,nagomi shoyu,216.0,36,nagomi shoyu,180.0
+12-13-2018,vegetarian curry + king trumpet mushroom ramen,132.0,22,vegetarian curry + king trumpet mushroom ramen,154.0
+12-14-2018,miso crab ramen,48.0,8,miso crab ramen,48.0
+12-15-2018,soft-shell miso crab ramen,140.0,20,soft-shell miso crab ramen,140.0
+12-16-2018,burnt garlic tonkotsu ramen,272.0,34,soft-shell miso crab ramen,210.0
+12-17-2018,tonkotsu ramen,154.0,22,vegetarian curry + king trumpet mushroom ramen,168.0
+12-18-2018,burnt garlic tonkotsu ramen,352.0,44,burnt garlic tonkotsu ramen,264.0
+12-19-2018,tonkotsu ramen,84.0,12,vegetarian curry + king trumpet mushroom ramen,84.0
+12-20-2018,nagomi shoyu,120.0,20,vegetarian curry + king trumpet mushroom ramen,112.0
+12-21-2018,miso crab ramen,300.0,50,miso crab ramen,300.0
+12-22-2018,soft-shell miso crab ramen,154.0,22,soft-shell miso crab ramen,154.0
+12-23-2018,miso crab ramen,108.0,18,miso crab ramen,108.0
+12-24-2018,vegetarian spicy miso,210.0,30,truffle butter ramen,196.0
+12-25-2018,burnt garlic tonkotsu ramen,224.0,28,vegetarian curry + king trumpet mushroom ramen,224.0
+12-26-2018,truffle butter ramen,266.0,38,truffle butter ramen,266.0
+12-27-2018,burnt garlic tonkotsu ramen,192.0,24,burnt garlic tonkotsu ramen,144.0
+12-28-2018,miso crab ramen,192.0,32,miso crab ramen,192.0
+12-29-2018,tori paitan ramen,238.0,34,vegetarian curry + king trumpet mushroom ramen,224.0
+12-30-2018,truffle butter ramen,210.0,30,truffle butter ramen,210.0
+12-31-2018,burnt garlic tonkotsu ramen,272.0,34,miso crab ramen,228.0
